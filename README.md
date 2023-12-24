@@ -1,2 +1,1 @@
 # HMA Take Home Exam
-- [logistic regression sample in github](https://github.com/pb111/Logistic-Regression-in-Python-Project/blob/master/Logistic%20Regression%20with%20Python%20and%20Scikit-Learn.ipynb)
